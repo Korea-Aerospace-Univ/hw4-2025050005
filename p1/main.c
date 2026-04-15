@@ -15,9 +15,9 @@ int main()
         }
         else{
             printf("%d==?\n", g);
-            printf("%d",i);
         }
     } while (a!=g);
+    printf("%d",i);
     return 0;
 }
 
